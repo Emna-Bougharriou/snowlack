@@ -1,0 +1,22 @@
+body{
+    background: #f9fafb;
+    line-height: 1.4rem;
+    font-family: 'Jost', sans-serif;
+    color: #606060;
+}
+h2 {
+    margin-top: 0;
+    color: #a14242;
+    font-weight: 500;
+    letter-spacing: normal;
+    margin-bottom: 0.8rem;
+}
+
+button {
+    font-family: inherit;
+    font-weight: normal;
+    color: inherit;
+}
+html {
+    font-size: 20px;
+}
