@@ -1,0 +1,60 @@
+body{
+    background: #f9fafb;
+    line-height: 1.4rem;
+    font-family: 'Jost', sans-serif;
+    color: #606060;
+    margin: 10px;
+}
+h2 {
+    margin-top: 0;
+    color: #a14242;
+    font-weight: 500;
+    letter-spacing: normal;
+    margin-bottom: 0.8rem;
+}
+
+button {
+    font-family: inherit;
+    font-weight: normal;
+    color: inherit;
+}
+html {
+    font-size: 20px;
+}
+.post-content {
+    margin-left: 85px;
+    margin-bottom: 0;
+    
+}
+ul{
+    float: right;
+    list-style-type: none;
+    padding-right: 460px;
+}
+ul li {
+    
+    margin-right: 10px;
+}
+ul li a{
+    color: #606060;
+}
+img{
+    margin-left: 100px;
+    height: 180px;
+    width: 300px;
+}
+ul li a:hover{
+    color: #5d3296;
+}
+.icon-bar {
+    background-color: darkorange;
+}
+.navbar-style{
+    box-shadow: 0px 5px 10px #efefef;
+}
+.nav navbar-nav navbar-right{
+  padding-right: 100px;
+}
+a:hover{
+    color: #ffffff;
+}

@@ -1,0 +1,74 @@
+
+.navbar{
+    overflow: hidden;
+  background-color: white;
+  position: fixed; 
+  top: 0; 
+  width: 100% ;
+    height: 50px;
+ left: 0;
+  background-size: 100px;
+     padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    
+    
+}
+.active{
+    text-decoration: none;
+    color: black;
+    
+}
+.logo{
+    font-family: Ink Free;
+    font-size: 60px ;
+    color: black;
+}
+.feat{
+    text-decoration:none;
+    color: black;
+}
+.page{
+    text-decoration:none;
+    color: black;
+}
+.elem{
+    text-decoration: none;
+    color: black;
+}
+.portfo{
+    text-decoration: none;
+    color: black;
+}
+.blog{
+    text-decoration: none;
+    color: black;
+}
+table{
+    border-spacing: 40px;
+   
+}
+.video{
+   position: center;
+}
+body {
+    
+    background: url(windows-w79mIrYKcK4-unsplash.jpg)  no-repeat fixed center ;
+    background-size:cover;
+    overflow: scroll;
+   
+    color:white; 
+    font-family: comic Sans MS ;
+    margin-right: auto;
+}
+h1{
+  
+    font-size: 40px ;
+}
+.par{
+   font-size:  20px;
+    object-position: center ;
+}
+.page-footer font-small indigo{
+    background-color: black;
+    color: white;
+}
